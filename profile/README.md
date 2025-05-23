@@ -4,15 +4,28 @@
 
 We specialize in **AI-driven product development**
 
----
-
 ### 🛠️ Our Tech Stack
 
 We build with modern, production-grade tools:
-- **Next.js** – Fast, SEO-friendly React framework  
-- **React** – Modular UI development  
-- **Node.js** – Efficient backend with JavaScript  
-- **NestJS** – Scalable backend framework for enterprise-grade APIs  
+
+#### 🧩 Frontend
+
+* **Next.js** – Fast, SEO-friendly React framework
+* **React** – Modular UI development
+
+#### ⚙️ Backend
+
+* **Node.js** – Efficient backend with JavaScript
+* **NestJS** – Scalable backend framework for enterprise-grade APIs
+
+#### 🗄️ Database
+
+* **Supabase** – Open-source Firebase alternative for auth, storage, and databases
+
+#### 🚀 Deployment Tools
+
+* **Vercel** – Instant frontend deployment and CI/CD
+* **GCP** – Backend deployment, containerization, and cloud services
 
 ---
 
