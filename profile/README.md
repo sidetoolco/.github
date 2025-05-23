@@ -2,8 +2,7 @@
 
 ### 🧠 What We Do
 
-We specialize in **AI-driven product development** that blends deep technical expertise with creative problem-solving.  
-We help forward-thinking companies turn complex ideas into real, working technology.
+We specialize in **AI-driven product development**
 
 ---
 
