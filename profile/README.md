@@ -11,7 +11,7 @@ We build with modern, production-grade tools:
 #### 🧩 Frontend
 
 * **Next.js** – Fast, SEO-friendly React framework
-* **React** – Modular UI development
+* **React + Vite** – Modular UI development
 
 #### ⚙️ Backend
 
