@@ -1,12 +1,29 @@
-## Hi there 👋
+# 👋 Welcome to SIDETOOL
 
-<!--
+### 🧠 What We Do
 
-**Here are some ideas to get you started:**
+We specialize in **AI-driven product development** that blends deep technical expertise with creative problem-solving.  
+We help forward-thinking companies turn complex ideas into real, working technology.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 🛠️ Our Tech Stack
+
+We build with modern, production-grade tools:
+- **Next.js** – Fast, SEO-friendly React framework  
+- **React** – Modular UI development  
+- **Node.js** – Efficient backend with JavaScript  
+- **NestJS** – Scalable backend framework for enterprise-grade APIs  
+
+---
+
+### 📂 Documentation
+
+Explore our development philosophy, modules, and internal tools in:
+
+- [`/docs`](./docs) – Technical documentation & guides  
+- [`/hives`](./hives) – Core components and building blocks
+
+---
+
+### 🤝 Let’s Build the Future
