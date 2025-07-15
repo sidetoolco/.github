@@ -8,7 +8,7 @@ We specialize in **AI-driven product development**
 
 We build with modern, production-grade tools:
 
-#### 🧩 Frontend
+#### 🧩 Frontend (View Boilerplate)[https://github.com/hisidetool/frontend-boilerplate]
 
 * **Next.js** – Fast, SEO-friendly React framework
 * **React + Vite** – Modular UI development
